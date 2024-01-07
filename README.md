@@ -2,7 +2,8 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - ⚡ Fun fact **I prefer dark mode because light attracts bugs.🪰 😁**
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
