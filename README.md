@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul Rajeev</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- ⚡ Fun fact **I prefer dark mode because light attracts bugs.🪰 😁**
+- ⚡ **I prefer dark mode because light attracts bugs.🪰 😁**
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
+<p>Self-taught Full Stack Developer on a journey of continuous learning and growth. Proficient in Python with Django and React.js for the frontend. Enthusiastic about technology, music, and the art of coding. Currently exploring the realms of programming, aiming to become a seasoned developer. Let's connect, collaborate, and code the future together! 🚀</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
